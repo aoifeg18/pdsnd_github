@@ -7,6 +7,7 @@
 	statistics. You will also write a script that takes in raw input to create an
 	interactive experience in the terminal to present these statistics.
 	code written by Aoife Gallagher
+	code written 04/01/2019
 	"""
 
 import time
