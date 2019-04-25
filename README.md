@@ -12,3 +12,4 @@ Bikeshare.py
 
 ### Credits
 Udacity - Programming for Data Science Nanoegree Program
+Aoife Gallagher
